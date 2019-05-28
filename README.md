@@ -1,2 +1,2 @@
 # Music
-Music I have written, stored as .musicxml
+Completed music I have written and arranged, sorted and stored as .musicxml and .pdf.
